@@ -31,6 +31,8 @@ for student in students:
     else:
         print(f"{name} : Fail")
 
+print()
+
 import matplotlib.pyplot as plt
 names = ["Aman", "Rohit", "Sanvi", "Niharika", "Hardik"]
 marks = [78, 35, 57, 22, 92]
